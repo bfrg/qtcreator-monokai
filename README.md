@@ -3,6 +3,9 @@
 The color theme is based on TextMate's monokai theme. The color definitions have
 been taken from Vim's [molokai](https://github.com/tomasr/molokai) color scheme.
 
+#### Screenshot
+
+![](screenshot.png "Qt Creator with Monokai theme")
 
 #### Installation
 
